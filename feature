@@ -1,2 +1,1 @@
-feature2
 new feature2
